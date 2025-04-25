@@ -1,7 +1,4 @@
 # Welcome, I'm Yassin El-Wardioui
-<a href="https://www.linkedin.com/in/yassin-el-wardioui-34016b332" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 I'm a cybersecurity enthusiast focused on offensive security, Active Directory exploitation, and network pentesting.  
 Currently building a solid foundation through labs and structured learning.
@@ -21,4 +18,6 @@ I am focused on building expertise in network security and Active Directory (AD)
 
 ## 📝 Reach Me
 Feel free to reach out for collaborations, questions, or to connect!
-
+<a href="https://www.linkedin.com/in/yassin-el-wardioui-34016b332" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
