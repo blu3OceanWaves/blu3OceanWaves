@@ -38,24 +38,13 @@ I'm a cybersecurity student passionate about **defensive security operations** a
 
 </div>
 
-## 💻 <span style="color: #00ff88;">Technical Arsenal</span>
-
 <div align="center">
 
-### 🛠️ **Security Tools**
+### 💎 **Favorites**
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-FF4500?style=for-the-badge&logo=volatility&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Autopsy](https://img.shields.io/badge/Autopsy-2C3E50?style=for-the-badge&logo=autopsy&logoColor=white)
-
-### 🖥️ **Operating Systems**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### 🔧 **Programming & Scripting**
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
 
