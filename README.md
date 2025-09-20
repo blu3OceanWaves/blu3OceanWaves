@@ -63,13 +63,13 @@ I'm a cybersecurity student passionate about **defensive security operations** a
 
 ```mermaid
 graph LR
-    A[🎓 Student] --> B[🛡️ SOC Analyst Skills]
+    A[Student] --> B[🛡️ SOC Analyst Skills]
     A --> C[🏹 Penetration Testing]
     A --> D[🌱 Green Energy Security]
-    B --> E[🚀 Career Goal: Cybersecurity Professional]
+    B --> E[Goal: Cybersecurity Professional]
     C --> E
     D --> E
-    E --> F[🌍 Protecting Critical Infrastructure]
+    E --> F[Protecting Critical Infrastructure]
     
     style A fill:#0d1117,stroke:#00ff88,stroke-width:2px,color:#ffffff
     style E fill:#0d1117,stroke:#00ff88,stroke-width:2px,color:#ffffff
