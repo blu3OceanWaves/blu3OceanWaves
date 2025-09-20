@@ -7,7 +7,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,22,25,30&height=120&section=header&text=&fontSize=0&animation=fadeIn" />
 </div>
-
+<div align="center">
+  
 ## 🎯 <span style="color: #00ff88;">About</span>
 
 I'm a cybersecurity student passionate about **defensive security operations** and **ethical hacking**. My unique focus lies in understanding how to protect critical infrastructure, particularly in the emerging green energy sector. As renewable energy systems become more connected and automated, they present new cybersecurity challenges that I'm excited to tackle.
@@ -49,8 +50,6 @@ I'm a cybersecurity student passionate about **defensive security operations** a
 </div>
 
 ## 🤝 <span style="color: #00ff88;">Let's Connect & Collaborate!</span>
-
-<div align="center">
 
 ### 💬 **I'm interested in discussing:**
 SOC operations and DFIR<br>
