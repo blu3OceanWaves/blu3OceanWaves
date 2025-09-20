@@ -41,7 +41,7 @@ I'm a cybersecurity student passionate about **defensive security operations** a
 
 <div align="center">
 
-### 💎 **Favorites**
+### ⚙️ **Favorites**
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-FF4500?style=for-the-badge&logo=volatility&logoColor=white)
