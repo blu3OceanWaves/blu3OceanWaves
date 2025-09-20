@@ -59,23 +59,6 @@ I'm a cybersecurity student passionate about **defensive security operations** a
 
 </div>
 
-## 📊 <span style="color: #00ff88;">Current Learning Journey</span>
-
-```mermaid
-graph LR
-    A[Student] --> B[🛡️ SOC Analyst Skills]
-    A --> C[🏹 Penetration Testing]
-    A --> D[🌱 Green Energy Security]
-    B --> E[Goal: Cybersecurity Professional]
-    C --> E
-    D --> E
-    E --> F[Protecting Critical Infrastructure]
-    
-    style A fill:#0d1117,stroke:#00ff88,stroke-width:2px,color:#ffffff
-    style E fill:#0d1117,stroke:#00ff88,stroke-width:2px,color:#ffffff
-    style F fill:#0d1117,stroke:#00ff88,stroke-width:2px,color:#ffffff
-```
-
 ## 🤝 <span style="color: #00ff88;">Let's Connect & Collaborate!</span>
 
 <div align="center">
@@ -92,10 +75,11 @@ graph LR
 <a href="https://www.linkedin.com/in/yassin-el-wardioui-34016b332" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=004182" />
 </a>
-
+<div align="center">
+  <h2 style="color: #228B22; text-shadow: 0 0 15px #32CD32, 0 0 25px #90EE90; font-size: 44px; background: linear-gradient(45deg, #f0f8ff, #e6ffe6); padding: 20px; border-radius: 15px; border: 2px solid #228B22;">
+    الحمد لله
+  </h2>
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=&fontSize=0" />
