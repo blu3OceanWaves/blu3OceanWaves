@@ -64,11 +64,11 @@ I'm a cybersecurity student passionate about **defensive security operations** a
 <div align="center">
 
 ### 💬 **I'm interested in discussing:**
-- SOC operations and incident response strategies
-- Penetration testing methodologies and tools  
-- Cybersecurity in renewable energy systems
-- Student cybersecurity projects and collaborations
-- Career advice and mentorship opportunities
+SOC operations and incident response strategies
+Penetration testing methodologies and tools  
+Cybersecurity in renewable energy systems
+Student cybersecurity projects and collaborations
+Career advice and mentorship opportunities
 
 <br>
 
