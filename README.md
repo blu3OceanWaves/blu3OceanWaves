@@ -1,4 +1,4 @@
-# <div align="center">--- Welcome, I'm Yassin El-Wardioui ---</div>
+# <div align="center">Welcome, I'm Yassin El-Wardioui</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%26+Enthusiast;SOC+Analyst+%7C+Penetration+Tester;Securing+Green+Infrastructure;Learning%2C+Practicing%2C+Defending" alt="Typing SVG" />
