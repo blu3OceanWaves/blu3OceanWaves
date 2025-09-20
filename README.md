@@ -14,14 +14,14 @@ I'm a cybersecurity student passionate about **defensive security operations** a
 
 <br clear="right"/>
 
-## 🚀 <span style="color: #00ff88;">Knowledgebase</span>
+## 🚀 <span style="color: #00ff88;">Interests</span>
 
 <div align="center">
 
 ### 🛡️ **Defensive Security (SOC Focus)**
 ```
 🔍 DFIR     📊 SIEM Tools  
-    🔗 Network Defense    📋 Log Analysis
+🔗 Network Defense
 ```
 
 ### ⚔️ **Offensive Security (Pentesting)**
