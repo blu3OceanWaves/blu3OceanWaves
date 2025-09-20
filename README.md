@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,12,20,22&height=150&section=header&text=🌿%20CYBERSECURITY%20🌿&fontSize=24&fontColor=00ff88&animation=blinking" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,22,25,30&height=120&section=header&text=&fontSize=0&animation=fadeIn" />
 </div>
 
 ## 🎯 <span style="color: #00ff88;">Mission Statement</span>
