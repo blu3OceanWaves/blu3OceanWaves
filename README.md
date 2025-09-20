@@ -71,10 +71,10 @@ Student cybersecurity projects and collaborations
 Career advice and mentorship opportunities
 
 <br>
-
 <a href="https://www.linkedin.com/in/yassin-el-wardioui-34016b332" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=004182" />
 </a>
+
 <div align="center">
   <h2 style="color: #228B22; text-shadow: 0 0 15px #32CD32, 0 0 25px #90EE90; font-size: 44px; background: linear-gradient(45deg, #f0f8ff, #e6ffe6); padding: 20px; border-radius: 15px; border: 2px solid #228B22;">
     الحمد لله
