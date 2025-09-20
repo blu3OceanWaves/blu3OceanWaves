@@ -20,8 +20,8 @@ I'm a cybersecurity student passionate about **defensive security operations** a
 
 ### 🛡️ **Defensive Security (SOC Focus)**
 ```
-🔍 Security Monitoring     📊 SIEM Tools (Splunk, ELK)     🚨 Incident Response
-📈 Threat Intelligence    🔗 Network Defense              📋 Log Analysis
+🔍 DFIR     📊 SIEM Tools  
+    🔗 Network Defense    📋 Log Analysis
 ```
 
 ### ⚔️ **Offensive Security (Pentesting)**
