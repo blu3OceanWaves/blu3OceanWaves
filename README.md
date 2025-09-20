@@ -53,11 +53,10 @@ I'm a cybersecurity student passionate about **defensive security operations** a
 <div align="center">
 
 ### 💬 **I'm interested in discussing:**
-SOC operations and incident response strategies
-Penetration testing methodologies and tools  
-Cybersecurity in renewable energy systems
-Student cybersecurity projects and collaborations
-Career advice and mentorship opportunities
+SOC operations and DFIR<br>
+Penetration testing methodologies and tools<br>
+Cybersecurity in renewable energy systems<br>
+Student cybersecurity projects and collaborations<br>
 
 <br>
 <a href="https://www.linkedin.com/in/yassin-el-wardioui-34016b332" target="_blank">
